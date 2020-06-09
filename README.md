@@ -1,8 +1,5 @@
 # zoomapi-java
-Zoom API implementation in Java
-
-### Project Description
-This project was based on the python implementation of Zoom API forked from https://github.com/crista/zoomapi and was completed as part of a group project for the SWE262P Programming Styles course at UCI. 
+Zoom API implementation in Java, providing basic operating APIs for Zoom.com
 
 ### Team members:
 Duo Chai</br>
