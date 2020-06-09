@@ -2,8 +2,8 @@
 Zoom API implementation in Java, providing basic operating APIs for Zoom.com
 
 ### Team members:
-Duo Chai</br>
-Soobin Choi
+[Duo Chai](https://github.com/Danny7226)</br>
+[Soobin Choi](https://github.com/soobinchoi54)
 
 ## To build the program:
 **MAKE SURE you have java 13 installed and set as default SDK, or please change the maven pom.xml configuration from 13 to your version of java**
